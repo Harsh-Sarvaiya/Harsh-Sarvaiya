@@ -1,6 +1,6 @@
 - 👋 Hi, My name is Harsh Sarvaiya
 - 👀 I’m currently interested in Machine Learning, Game Development, and Web Development
-- 🌱 I’m currently learning Software Engineering at Thompson Rivers University (2nd Year)
+- 🌱 I’m currently learning Software Engineering at Thompson Rivers University (3rd Year)
 - 📫 You can reach me at hsarvaiya.work@gmail.com
 
 <!---
