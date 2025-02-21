@@ -1,5 +1,5 @@
 - 👋 Hi, My name is Harsh Sarvaiya
-- 👀 I’m currently interested in Web Development, Embedded Systems, and AI Hardware Integration
+- 👀 I’m currently interested in AI Hardware Integration, and Robotics
 - 🌱 I’m currently learning Software Engineering at Thompson Rivers University (3rd Year)
 - 📫 You can reach me at hsarvaiya.work@gmail.com
 
